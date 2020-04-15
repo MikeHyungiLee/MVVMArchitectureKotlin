@@ -3,9 +3,8 @@ package com.hyungilee.mvvmarchitecturekotlin
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.Observer
-import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import androidx.lifecycle.ViewModelProviders
+import com.hyungilee.mvvmarchitecturekotlin.viewmodels.MainViewModel
 
 class MainActivity : AppCompatActivity() {
 

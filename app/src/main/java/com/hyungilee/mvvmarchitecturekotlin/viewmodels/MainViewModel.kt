@@ -1,4 +1,4 @@
-package com.hyungilee.mvvmarchitecturekotlin
+package com.hyungilee.mvvmarchitecturekotlin.viewmodels
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
